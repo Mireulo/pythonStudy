@@ -6,6 +6,7 @@ git log = 깃 커밋 로그 보여주기
 git config --global user.name "유저네임" = 유저네임 설정
 git config --gloabl user.email "email" = 이메일 설정
 git branch "브랜치 이름" = 브랜치 생성
+git checkout "브랜치 이름" = 브랜치 변경
 git add . = 파일 전부 스테이징 영역에 올리기
 git status = git 상태 확인
 git commit = git 커밋하기
